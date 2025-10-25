@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Create PathwayKS Pitch Deck using python-pptx
+Create LaunchKS Pitch Deck using python-pptx
 """
 from pptx import Presentation
 from pptx.util import Inches, Pt
@@ -36,7 +36,7 @@ def main():
     # Slide 1: Title
     create_title_slide(
         prs,
-        "PathwayKS: Connecting Every Kansan to Opportunity",
+        "LaunchKS: Connecting Every Kansan to Opportunity",
         "Your personalized pathway to career success"
     )
 
@@ -92,7 +92,7 @@ def main():
     # Slide 5: The Solution
     create_content_slide(
         prs,
-        "PathwayKS: Your Unified Career Navigation Platform",
+        "LaunchKS: Your Unified Career Navigation Platform",
         [
             "Key Features:",
             "",
@@ -223,7 +223,7 @@ def main():
     # Slide 12: Competitive Advantage
     create_content_slide(
         prs,
-        "Why PathwayKS Wins",
+        "Why LaunchKS Wins",
         [
             "1. Localized: Built specifically for Kansas ecosystem",
             "",
@@ -299,8 +299,8 @@ def main():
     )
 
     # Save the presentation
-    prs.save('/home/jsperson/source/ai_competition_oracle/PathwayKS_PitchDeck.pptx')
-    print("Presentation created successfully: PathwayKS_PitchDeck.pptx")
+    prs.save('/home/jsperson/source/ai_competition_oracle/LaunchKS_PitchDeck.pptx')
+    print("Presentation created successfully: LaunchKS_PitchDeck.pptx")
 
 if __name__ == "__main__":
     main()

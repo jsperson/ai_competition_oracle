@@ -1,8 +1,8 @@
-# PathwayKS Pitch Deck Content
+# LaunchKS Pitch Deck Content
 ## Slide-by-Slide Outline
 
 ### Slide 1: Title
-**PathwayKS: Connecting Every Kansan to Opportunity**
+**LaunchKS: Connecting Every Kansan to Opportunity**
 Tagline: Your personalized pathway to career success
 
 ### Slide 2: The Problem
@@ -31,7 +31,7 @@ Despite strong infrastructure:
 - **Geographic Focus**: Statewide with initial focus on South Central Kansas (Butler, Cowley, Harper, Kingman, Sedgwick, Sumner counties)
 
 ### Slide 5: The Solution
-**PathwayKS: Your Unified Career Navigation Platform**
+**LaunchKS: Your Unified Career Navigation Platform**
 
 Key Features:
 1. Smart Pathway Matching (AI-powered recommendations)
@@ -125,7 +125,7 @@ Key Features:
 **Security:** SOC 2 Type II, FERPA compliant
 
 ### Slide 12: Competitive Advantage
-**Why PathwayKS Wins**
+**Why LaunchKS Wins**
 
 1. **Localized**: Built specifically for Kansas ecosystem and partners
 2. **Integrated**: Direct API connections, not just link aggregation

@@ -1,4 +1,4 @@
-# PathwayKS Business Plan
+# LaunchKS Business Plan
 ## Transforming Kansas Workforce Development Through Unified Career Navigation
 
 **Prepared for:** Kansas Department of Labor
@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-PathwayKS is a unified digital platform designed to connect Kansas citizens to personalized upskilling and career change pathways. By aggregating training programs, job listings, and support services from across the state, PathwayKS addresses the critical gap between Kansas' 70,000+ job openings and citizens seeking career advancement.
+LaunchKS is a unified digital platform designed to connect Kansas citizens to personalized upskilling and career change pathways. By aggregating training programs, job listings, and support services from across the state, LaunchKS addresses the critical gap between Kansas' 70,000+ job openings and citizens seeking career advancement.
 
 **The Opportunity:**
 - 273,000+ Kansas adults have some college but no degree [Source: U.S. Census Bureau, 2024]
@@ -18,7 +18,7 @@ PathwayKS is a unified digital platform designed to connect Kansas citizens to p
 - Current infrastructure is fragmented across 10+ separate systems
 
 **The Solution:**
-PathwayKS provides:
+LaunchKS provides:
 1. AI-powered pathway matching based on skills, interests, and constraints
 2. One-stop aggregation of all training programs and job listings
 3. Barrier navigation for transportation, childcare, and financial assistance
@@ -109,9 +109,9 @@ Kansas workforce development faces multiple systemic barriers:
 
 ## 2. Solution Overview
 
-### 2.1 PathwayKS Platform
+### 2.1 LaunchKS Platform
 
-PathwayKS is a unified digital platform that serves as the "single front door" to Kansas workforce development. It connects citizens to personalized upskilling and career change pathways by:
+LaunchKS is a unified digital platform that serves as the "single front door" to Kansas workforce development. It connects citizens to personalized upskilling and career change pathways by:
 
 **Core Value Proposition:**
 "From assessment to employment in one integrated journey"
@@ -362,7 +362,7 @@ PathwayKS is a unified digital platform that serves as the "single front door" t
    - Strengths: Knowledgeable staff, program expertise
    - Weaknesses: Institution-specific, not cross-provider, no job placement tracking
 
-**PathwayKS Competitive Advantages:**
+**LaunchKS Competitive Advantages:**
 1. **Kansas-Specific:** Built for Kansas ecosystem, not generic national platform
 2. **Integrated:** Direct API connections enable true integration, not just links
 3. **Barrier-Aware:** Explicitly addresses transportation, childcare, digital access
@@ -641,7 +641,7 @@ PathwayKS is a unified digital platform that serves as the "single front door" t
 - KansasWorks (27 workforce centers)
 - Workforce Alliance of South Central Kansas
 - Local workforce development boards
-- Value Exchange: PathwayKS drives center traffic, centers promote platform
+- Value Exchange: LaunchKS drives center traffic, centers promote platform
 - Integration: Referral process, appointment scheduling, outcome tracking
 
 **Category 2: Training Providers**
@@ -650,27 +650,27 @@ PathwayKS is a unified digital platform that serves as the "single front door" t
 - Newman University
 - Community college system statewide
 - Private training providers
-- Value Exchange: PathwayKS drives enrollments, providers supply program data
+- Value Exchange: LaunchKS drives enrollments, providers supply program data
 - Integration: Program catalog API, application submission, progress tracking
 
 **Category 3: Employers**
 - Tier 1 (Large): Spirit AeroSystems, Textron Aviation, Koch, Cargill, health systems
 - Tier 2 (Mid-Size): Regional manufacturers, logistics, healthcare providers
-- Value Exchange: PathwayKS provides talent pipeline, employers provide jobs + insights
+- Value Exchange: LaunchKS provides talent pipeline, employers provide jobs + insights
 - Integration: Job posting API, applicant tracking system, interview scheduling
 
 **Category 4: Support Services**
 - Kansas WorkforceONE (transportation, childcare assistance)
 - Wichita Public Library (digital skills training)
 - Community service organizations
-- Value Exchange: PathwayKS increases program utilization, services reduce barriers
+- Value Exchange: LaunchKS increases program utilization, services reduce barriers
 - Integration: Eligibility checking, referral tracking, outcome measurement
 
 **Category 5: Government Agencies**
 - Kansas Department of Labor (primary sponsor)
 - Kansas Department of Commerce (workforce development, apprenticeships)
 - Kansas Board of Regents (higher education coordination)
-- Value Exchange: PathwayKS demonstrates ROI on investments, agencies provide funding + policy support
+- Value Exchange: LaunchKS demonstrates ROI on investments, agencies provide funding + policy support
 - Integration: Data sharing agreements, reporting dashboards, policy feedback
 
 ### 6.2 Partnership Development Process
@@ -1129,13 +1129,13 @@ PathwayKS is a unified digital platform that serves as the "single front door" t
 ### 10.2 Partner Metrics
 
 **Workforce Centers:**
-- Referral volume to PathwayKS
+- Referral volume to LaunchKS
 - Client outcome improvement (vs. baseline)
 - Staff satisfaction with platform
 - Data quality and timeliness
 
 **Training Providers:**
-- Enrollment increase attributable to PathwayKS
+- Enrollment increase attributable to LaunchKS
 - Student success rate (completion, placement)
 - Application processing time
 - Partnership satisfaction score
@@ -1199,17 +1199,17 @@ PathwayKS is a unified digital platform that serves as the "single front door" t
 
 ## 11. Conclusion
 
-PathwayKS represents a transformational opportunity to modernize Kansas workforce development and create measurable economic impact across the state. By building a unified platform that connects citizens to personalized career pathways, we can address the critical workforce paradox: thousands of job openings coexisting with citizens seeking upskilling and career change.
+LaunchKS represents a transformational opportunity to modernize Kansas workforce development and create measurable economic impact across the state. By building a unified platform that connects citizens to personalized career pathways, we can address the critical workforce paradox: thousands of job openings coexisting with citizens seeking upskilling and career change.
 
 ### Key Success Factors:
 
-1. **Strong Foundation:** Kansas has invested significantly in workforce infrastructure (27 centers, tuition-free programs, apprenticeships), but lacks integration. PathwayKS builds on this foundation rather than replacing it.
+1. **Strong Foundation:** Kansas has invested significantly in workforce infrastructure (27 centers, tuition-free programs, apprenticeships), but lacks integration. LaunchKS builds on this foundation rather than replacing it.
 
 2. **Proven Need:** With 70,000+ job openings, 273,000+ adults with some college but no degree, and high-demand sectors struggling to fill positions, the market need is validated by data.
 
 3. **Government Partnership:** Kansas Department of Labor backing provides credibility, distribution, and sustainable funding model.
 
-4. **Technology Advantage:** AI-powered matching, API integration, and barrier navigation features differentiate PathwayKS from generic national platforms.
+4. **Technology Advantage:** AI-powered matching, API integration, and barrier navigation features differentiate LaunchKS from generic national platforms.
 
 5. **Measurable Impact:** Clear success metrics (enrollments, placements, earnings increases) enable data-driven decision-making and demonstrate ROI.
 
@@ -1221,7 +1221,7 @@ PathwayKS represents a transformational opportunity to modernize Kansas workforc
 - **Months 7-12:** Statewide rollout reaching 10,000 users
 - **Year 2-3:** Scale to 50,000+ users and explore expansion to neighboring states
 
-PathwayKS is more than a technology platform—it's a catalyst for economic growth, social mobility, and workforce transformation in Kansas. With the right partnerships, funding, and execution, we can create a national model for how states should approach workforce development in the 21st century.
+LaunchKS is more than a technology platform—it's a catalyst for economic growth, social mobility, and workforce transformation in Kansas. With the right partnerships, funding, and execution, we can create a national model for how states should approach workforce development in the 21st century.
 
 ---
 
@@ -1252,7 +1252,7 @@ PathwayKS is more than a technology platform—it's a catalyst for economic grow
 
 ## Appendix B: Competitive Analysis Matrix
 
-| Feature | PathwayKS | KansasWorks | WSU Tech | Indeed | CareerOneStop |
+| Feature | LaunchKS | KansasWorks | WSU Tech | Indeed | CareerOneStop |
 |---------|-----------|-------------|----------|--------|---------------|
 | Kansas-Specific | ✓ | ✓ | ✓ | ✗ | ✗ |
 | Unified Platform | ✓ | Partial | ✗ | ✗ | ✗ |

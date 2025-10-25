@@ -1,4 +1,4 @@
-# PathwayKS Technical Walkthrough
+# LaunchKS Technical Walkthrough
 ## Architecture, Tech Stack, and Implementation Guide
 
 **Document Version:** 1.0
@@ -28,7 +28,7 @@
 
 ### 1.1 High-Level Architecture
 
-PathwayKS is built as a modern, cloud-native application using a microservices architecture. The system consists of:
+LaunchKS is built as a modern, cloud-native application using a microservices architecture. The system consists of:
 
 - **Frontend Layer:** Progressive Web App (PWA) and future mobile apps
 - **API Gateway:** Central entry point for all client requests
@@ -903,27 +903,27 @@ Hybrid recommendation system combining:
 
 **Pattern 1: REST API Integration (Preferred)**
 - Training provider exposes REST API
-- PathwayKS calls API for real-time data
+- LaunchKS calls API for real-time data
 - OAuth 2.0 authentication
 - Rate limiting and retry logic
 - Example: WSU Tech API, Butler CC API
 
 **Pattern 2: Webhook Integration**
-- Partner sends event notifications to PathwayKS
-- PathwayKS exposes webhook endpoint
+- Partner sends event notifications to LaunchKS
+- LaunchKS exposes webhook endpoint
 - Validates webhook signature for security
 - Processes event and updates database
 - Example: Employer ATS sends "application status changed" event
 
 **Pattern 3: Batch File Transfer**
 - Partner generates daily/weekly data file (CSV, JSON, XML)
-- PathwayKS retrieves via SFTP or S3
+- LaunchKS retrieves via SFTP or S3
 - Processes file and updates database
 - Example: KansasWorks job listing export
 
 **Pattern 4: Web Scraping (Last Resort)**
 - When no API or file transfer available
-- PathwayKS scrapes partner website
+- LaunchKS scrapes partner website
 - Respect robots.txt and rate limits
 - Fragile (breaks when site changes)
 - Example: Training providers without APIs
@@ -1403,7 +1403,7 @@ CREATE INDEX idx_placements_employer_id ON placements(employer_id);
 **FERPA (Family Educational Rights and Privacy Act):**
 - Protects education records
 - Requires consent for data sharing
-- PathwayKS compliance:
+- LaunchKS compliance:
   - User consent during registration
   - Data sharing agreements with training providers
   - Audit logs for all data access
@@ -1412,7 +1412,7 @@ CREATE INDEX idx_placements_employer_id ON placements(employer_id);
 **SOC 2 Type II:**
 - Security, availability, confidentiality, processing integrity, privacy
 - Annual audit by independent CPA firm
-- PathwayKS preparations:
+- LaunchKS preparations:
   - Security policies and procedures documented
   - Access controls implemented
   - Monitoring and logging in place
@@ -1421,7 +1421,7 @@ CREATE INDEX idx_placements_employer_id ON placements(employer_id);
 
 **WCAG 2.1 Level AA (Accessibility):**
 - Ensures access for users with disabilities
-- PathwayKS compliance:
+- LaunchKS compliance:
   - Semantic HTML
   - Keyboard navigation
   - Screen reader support
@@ -1431,7 +1431,7 @@ CREATE INDEX idx_placements_employer_id ON placements(employer_id);
 
 **GDPR (General Data Protection Regulation):**
 - Even though Kansas-focused, some users may be EU residents
-- PathwayKS compliance:
+- LaunchKS compliance:
   - Privacy policy and terms of service
   - Cookie consent banner
   - Data export functionality
@@ -1791,7 +1791,7 @@ resource "aws_lb" "main" {
 - Hosted on Redoc or Swagger UI
 
 **User Documentation:**
-- User guide (how to use PathwayKS)
+- User guide (how to use LaunchKS)
 - FAQ section
 - Video tutorials for key workflows
 - Hosted on Docusaurus site
@@ -2000,7 +2000,7 @@ resource "aws_lb" "main" {
 
 ## Conclusion
 
-PathwayKS is designed as a modern, scalable, and secure platform to transform Kansas workforce development. The technology stack leverages industry-standard tools and best practices to deliver:
+LaunchKS is designed as a modern, scalable, and secure platform to transform Kansas workforce development. The technology stack leverages industry-standard tools and best practices to deliver:
 
 1. **User-Centric Experience:** Intuitive web and mobile apps that guide users from assessment to employment
 2. **AI-Powered Matching:** Machine learning models that personalize pathway recommendations
@@ -2008,15 +2008,15 @@ PathwayKS is designed as a modern, scalable, and secure platform to transform Ka
 4. **Barrier Navigation:** Tools to identify and overcome transportation, childcare, and financial barriers
 5. **Measurable Impact:** Comprehensive analytics to track outcomes and demonstrate ROI
 
-The technical architecture supports rapid iteration, high availability, and future growth as PathwayKS scales from a pilot in Sedgwick County to statewide deployment and potential expansion to other states.
+The technical architecture supports rapid iteration, high availability, and future growth as LaunchKS scales from a pilot in Sedgwick County to statewide deployment and potential expansion to other states.
 
-With a strong technical foundation, experienced team, and government partnership, PathwayKS is positioned to become the national model for workforce development platforms.
+With a strong technical foundation, experienced team, and government partnership, LaunchKS is positioned to become the national model for workforce development platforms.
 
 ---
 
 **Document Status:** Complete
 **Next Review Date:** After Phase 1 completion (Month 3)
-**Contact:** Technical Lead, PathwayKS Team
+**Contact:** Technical Lead, LaunchKS Team
 
 ---
 *End of Technical Walkthrough*
