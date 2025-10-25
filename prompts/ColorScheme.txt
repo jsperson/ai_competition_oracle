@@ -1,0 +1,45 @@
+Here are several modern color schemes for a brand or web tool supporting the Kansas Department of Labor.
+
+These palettes are designed to be professional, trustworthy, and accessible, while also drawing subtle inspiration from the state of Kansas. For any government-facing tool, ensuring high contrast for text (meeting WCAG AA or AAA standards) is critical.
+
+Scheme 1: Digital Prairie
+This scheme is a modern take on the classic Kansas "sky blue" and "sunflower gold." It's optimistic, clear, and trustworthy. The deep blue anchors the brand in professionalism, while the gold provides an energetic and uniquely "Kansas" accent.
+
+Primary (Brand/Headers): #005DAA (A strong, dependable blue)
+Secondary (CTA/Accent): #FFB900 (A vibrant, sunflower gold)
+Accent (Links/Info): #0078D4 (An accessible, bright blue)
+Neutrals (Background): #F5F7FA (A very light, cool gray)
+Text (Body/Headlines): #222222 (A dark, readable charcoal)
+Why it works: This is a classic "tech" blue paired with a strong state identifier. It feels familiar, reliable, and easy to navigate.
+
+Scheme 2: Flint Hills Professional
+Inspired by the natural landscape of Kansas, this palette uses a deep green to evoke growth, opportunity, and stability. The warm tan adds an earthy, limestone-inspired touch, creating a scheme that feels grounded, unique, and serious.
+
+Primary (Brand/Headers): #005F40 (A deep, stable forest green)
+Secondary (Accent): #DDC9A3 (A warm, wheat/limestone tan)
+CTA (Buttons/Action): #007A53 (A brighter, actionable green)
+Neutrals (Background): #F9F8F6 (A warm, off-white)
+Text (Body/Headlines): #333333 (A soft, dark gray)
+Why it works: Green is a less common color for government tech, making it feel modern and distinct. It conveys "go" and "growth" (job growth, new opportunities) in a very professional way.
+
+Scheme 3: Ad Astra (Accessible & Clear)
+Named after the state motto ("Ad Astra Per Aspera"), this palette is built on a foundation of high-accessibility and a clear, no-nonsense user experience. It uses a strong, classic blue and a limited set of action colors, similar to U.S. and international digital government design standards.
+
+Primary (Brand/Headers): #004B8D (A deep, authoritative "state" blue)
+CTA (Action/Buttons): #0078D4 (A bright, accessible link blue)
+Success (Confirmation): #00875A (A clear, positive green)
+Warning (Alerts): #D83020 (A strong, unambiguous red)
+Neutrals (Background): #F0F4F8 (A light, clean sky gray)
+Text (Body/Headlines): #1B1B1B (A very dark, high-contrast black)
+Why it works: This palette prioritizes function and accessibility above all. It's instantly recognizable as a dependable, official tool. The "Kansas" connection comes from the foundational state-flag blue.
+
+Scheme 4: Sunflower Tech
+This is a very modern, high-contrast "tech" palette. It uses a dark, professional slate blue as its base, with a single, bright accent of sunflower gold. This minimalist approach feels sophisticated, clean, and focused.
+
+Primary (Dark Base/Headers): #223344 (A professional, dark slate blue)
+CTA (All Actions/Buttons): #FFC107 (A bright, energetic sunflower gold)
+Accent (Links/Secondary): #007BFF (A standard, vibrant web blue)
+Neutrals (Background): #FFFFFF (Pure, clean white)
+Text (On White): #223344 (Uses the primary dark blue for text)
+Text (On Dark): #FFFFFF (Pure white for high contrast)
+Why it works: This scheme is ideal for a "dark mode" or a very clean, Apple-inspired interface. The single pop of gold for all CTAs creates a clear and intuitive path for the user.
