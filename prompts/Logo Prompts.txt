@@ -1,0 +1,16 @@
+Logo Prompts:
+
+"Create a logo for Launch KS and give it an aerospace theme using this color scheme: 
+
+### Sunflower Tech
+
+This is a very modern, high-contrast "tech" palette. It uses a dark, professional slate blue as its base, with a single, bright accent of sunflower gold. This minimalist approach feels sophisticated, clean, and focused.
+
+- **Primary (Dark Base/Headers):** `#21293E` (A professional, dark slate blue)
+- **CTA (All Actions/Buttons):** `#FFC107` (A bright, energetic sunflower gold)
+- **Accent (Links/Secondary):** `#007BFF` (A standard, vibrant web blue)
+- **Neutrals (Background):** `#FFFFFF` (Pure, clean white)
+- **Text (On White):** `#21293E` (Uses the primary dark blue for text)
+- **Text (On Dark):** `#FFFFFF` (Pure white for high contrast)
+
+**Why it works:** This scheme is ideal for a "dark mode" or a very clean, Apple-inspired interface. The single pop of gold for all CTAs creates a clear and intuitive path for the user."
