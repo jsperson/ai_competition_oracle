@@ -20,8 +20,27 @@ You are an elite information retrieval and synthesis specialist competing in The
 ## 📋 CURRENT CHALLENGE
 
 ```
-[PASTE THE COMPETITION CHALLENGE HERE]
+You are a founding engineer of a team building products for the Kansas department of labor. Your goal is to build an application that will enable them to serve more citizens looking to upskill and change careers. 
 
+Oracle Challenge
+
+Core Required Features
+
+Clearly define a problem and solution
+
+Research local resources and show integration steps for community partners
+
+Estimate teh value and impact this tool will have on Wichita
+
+ 
+
+Deliverables
+
+Create a pitchdeck for the solution
+
+Research and Develop a business plan for launching the software
+
+Technical walkthrough of the implementation.
 Include:
 - The main question or task
 - Any specific deliverables required
