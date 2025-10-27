@@ -246,3 +246,14 @@ This portfolio was created for the 2025 Wichita Regional AI Prompt Competition. 
 **Generated with AI-assisted research and prompt engineering**
 **Competition Date:** October 2025
 **Repository Created:** October 2025
+
+---
+
+## 🔗 Related Repositories
+
+This submission was part of a complete competition portfolio:
+
+- **[challenge-1](https://github.com/jsperson/challenge-1)** - Architect Track: LaunchKS platform (workforce development app)
+- **[ai_competition](https://github.com/jsperson/ai_competition)** - Muse Track (2nd Place): Kansas web games
+- **[ai_competition_2](https://github.com/jsperson/ai_competition_2)** - Challenge #4: Punchcard decoder
+- **ai_competition_oracle** (this repo) - Oracle Track (Winner): Business plan and market research
