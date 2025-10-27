@@ -2,7 +2,7 @@
 
 **Winner:** Top Prize - Oracle Track
 **Competition:** [2025 Wichita Regional AI Prompt Championship](https://www.aipromptchamp.com)
-**Date:** October 2025
+**Date:** October 25, 2025
 
 This repository contains the complete winning portfolio for the Oracle track of the 2025 Wichita Regional AI Prompt Competition. The challenge required designing a comprehensive solution for the Kansas Department of Labor to help citizens upskill and change careers through a unified platform.
 
@@ -244,8 +244,8 @@ This portfolio was created for the 2025 Wichita Regional AI Prompt Competition. 
 ---
 
 **Generated with AI-assisted research and prompt engineering**
-**Competition Date:** October 2025
-**Repository Created:** October 2025
+**Competition Date:** October 25, 2025
+**Repository Created:** October 25, 2025
 
 ---
 
